@@ -49,3 +49,7 @@ def closest_intersection_distance(input0, input1)
 
   shortest_dist
 end
+
+def hello_world
+  puts "Hello world"
+end
