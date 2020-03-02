@@ -52,4 +52,5 @@ end
 
 def hello_world
   puts "Hello world"
+  puts "Hi!"
 end
